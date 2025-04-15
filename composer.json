@@ -14,7 +14,7 @@
   "require": {
     "php": ">=8.2.0",
     "intervention/image": "~2.3",
-    "dev-eugeniuses/superclosure": "dev-master@dev"
+    "dev-eugeniuses/super_closure": "dev-master@dev"
   },
   "autoload": {
     "files": [
