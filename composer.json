@@ -23,5 +23,13 @@
     "psr-4": {
       "Dakzilla\\Intervention\\": ""
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/TappNetwork/nova-prepopulate-searchable"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
