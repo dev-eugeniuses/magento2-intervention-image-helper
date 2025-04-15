@@ -14,7 +14,7 @@
   "require": {
     "php": ">=8.2.0",
     "intervention/image": "~2.3",
-    "dev-eugeniuses/super_closure": "dev-master"
+    "jeremeamia/superclosure": "^2.0"
   },
   "autoload": {
     "files": [
@@ -25,10 +25,7 @@
     }
   },
   "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/dev-eugeniuses/super_closure"
-    }
+   
   ],
   "minimum-stability": "dev",
   "prefer-stable": true
