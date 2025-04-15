@@ -1,5 +1,5 @@
 {
-  "name": "dakzilla/intervention-image-helper",
+  "name": "dev-eugeniuses/magento2-intervention-image-helper",
   "description": "Intervention Image helper for Magento 2",
   "type": "magento2-module",
   "license": [
@@ -7,12 +7,12 @@
   ],
   "authors": [
     {
-      "name": "Simon Dakin",
-      "email": "hello@simondakin.com"
+      "name": "Dev Eugeniuses",
+      "email": "dev@eugeniuses.com"
     }
   ],
   "require": {
-    "php": ">=7.0.0",
+    "php": ">=8.2.0",
     "intervention/image": "~2.3",
     "Bitcaster/super_closure": "dev-php8.4"
   },
