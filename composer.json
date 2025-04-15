@@ -14,7 +14,7 @@
   "require": {
     "php": ">=7.0.0",
     "intervention/image": "~2.3",
-    "jeremeamia/superclosure": "^2.0"
+    "Bitcaster/super_closure": "dev-master"
   },
   "autoload": {
     "files": [
