@@ -14,7 +14,7 @@
   "require": {
     "php": ">=8.2.0",
     "intervention/image": "~2.3",
-    "dev-eugeniuses/super_closure": "dev-master@dev"
+    "dev-eugeniuses/super_closure": "dev-master"
   },
   "autoload": {
     "files": [
@@ -26,8 +26,8 @@
   },
   "repositories": [
     {
-      "type": "path",
-      "url": "./Plugin/super_closure"
+      "type": "vcs",
+      "url": "https://github.com/dev-eugeniuses/super_closure"
     }
   ],
   "minimum-stability": "dev",
