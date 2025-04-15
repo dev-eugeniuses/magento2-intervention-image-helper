@@ -13,8 +13,7 @@
   ],
   "require": {
     "php": ">=8.2.0",
-    "intervention/image": "~2.3",
-    "Bitcaster/super_closure": "dev-php8.4@dev"
+    "intervention/image": "~2.3"
   },
   "autoload": {
     "files": [
@@ -25,10 +24,7 @@
     }
   },
   "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/Bitcaster/super_closure"
-    }
+    
   ],
   "minimum-stability": "dev",
   "prefer-stable": true
