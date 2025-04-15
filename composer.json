@@ -29,5 +29,7 @@
       "type": "vcs",
       "url": "https://github.com/Bitcaster/super_closure"
     }
-  ]
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
