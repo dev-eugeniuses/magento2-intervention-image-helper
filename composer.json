@@ -27,7 +27,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/TappNetwork/nova-prepopulate-searchable"
+      "url": "https://github.com/Bitcaster/super_closure"
     }
   ],
   "minimum-stability": "dev",
