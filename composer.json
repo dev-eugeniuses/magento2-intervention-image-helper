@@ -14,7 +14,7 @@
   "require": {
     "php": ">=8.2.0",
     "intervention/image": "~2.3",
-    "jeremeamia/superclosure": "^2.0"
+    "dev-eugeniuses/super_closure": "dev-master@dev"
   },
   "autoload": {
     "files": [
@@ -24,9 +24,12 @@
       "Dakzilla\\Intervention\\": ""
     }
   },
-  "repositories": [
-   
-  ],
+  "repositories":{
+    "0": {
+      "type": "vcs",
+      "url": "https://github.com/dev-eugeniuses/super_closure"
+    }
+  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
