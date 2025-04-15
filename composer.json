@@ -14,7 +14,7 @@
   "require": {
     "php": ">=8.2.0",
     "intervention/image": "~2.3",
-    "Bitcaster/super_closure": "dev-php8.4"
+    "Bitcaster/super_closure": "dev-php8.4@dev"
   },
   "autoload": {
     "files": [
