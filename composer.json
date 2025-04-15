@@ -26,8 +26,8 @@
   },
   "repositories": [
     {
-      "type": "vcs",
-      "url": "https://github.com/dev-eugeniuses/super_closure"
+      "type": "path",
+      "url": "./Plugin/super_closure"
     }
   ],
   "minimum-stability": "dev",
